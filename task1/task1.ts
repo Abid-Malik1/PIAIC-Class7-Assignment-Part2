@@ -10,3 +10,5 @@ let myValue:number = 3;
 let modifiedArry:number = insertValueAtArry(myArry,myIndex,myValue)
 
 console.log(modifiedArry);
+
+//Output is [ 1, 2, 3, 4, 5 ]
